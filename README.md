@@ -38,3 +38,14 @@ a freeware API (https://fakestoreapi.com/products).
   http://localhost:5173/
 ```
 
+# Screens
+
+1. Product Listing
+
+![products-listing](https://github.com/user-attachments/assets/2cf3848e-8cb8-496a-ad44-4d9b156ff2dd)
+
+
+2. Cart
+
+![cart](https://github.com/user-attachments/assets/795fbfe3-e324-46a9-b4c7-708d95376c73)
+
