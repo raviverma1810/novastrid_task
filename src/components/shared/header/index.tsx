@@ -6,8 +6,8 @@ const CartButton = lazy(() => import("../cartButton"));
 
 const HeaderComponent = memo(() => {
   const stickyHeader = useCallback(() => {
-    const sticky = 150;
     const header = document.getElementById("header") as HTMLElement;
+    const sticky = 150;
     window.onscroll = function () {
       if (window.pageYOffset > sticky) return header.classList.add("sticky");
       header.classList.remove("sticky");
@@ -19,7 +19,7 @@ const HeaderComponent = memo(() => {
   }, [stickyHeader]);
 
   return (
-    <div id="header" className="header-wrapper sticky">
+    <div id="header" className="header-wrapper">
       <Logo />
       <div className="header-actionitems">
         <NavLinks />
