@@ -1,7 +1,7 @@
-# NovaStrid | e-Mart (A Shopping cart task)
+# NovaStrid | e-Mart (A Shopping cart App)
 
 This is the shopping cart app. Which includes a products listing page and cart page. For getting products data here I have used 
-a freeware API (https://fakestoreapi.com/products).
+a freeware mock API (https://fakestoreapi.com/products).
 
 # Features 
 
@@ -11,6 +11,7 @@ a freeware API (https://fakestoreapi.com/products).
 - Ability to Add products to the cart.
 - Ability to Remove products from the cart.
 - Ability to Adjust the quantity of each product in the cart.
+- It's mobile responsive
 
 # Steps to run on local
 
