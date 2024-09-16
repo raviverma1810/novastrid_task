@@ -33,7 +33,7 @@ a freeware mock API (https://fakestoreapi.com/products).
   npm run dev
 ```
 
-5. Goto the browser and other the following link
+5. Goto the browser and open the following link
 
 ```bash
   http://localhost:5173/
