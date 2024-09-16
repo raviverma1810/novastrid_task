@@ -1,0 +1,11 @@
+#root {
+  display: flex;
+  margin: 0 auto;
+  width: 100%;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: darkcyan;
+}
